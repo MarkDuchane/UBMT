@@ -11,7 +11,7 @@
 *************************************************************************************************
 
 The Universal Bot Mesh Toolkit is being developed with the concept to run on cross platforms: Windows,
-MAC, Linux.
+MAC, and Linux. (The Linux portion is still under development).
 
 If you would like to run this program to see how it works for yourself, I have included the images and
 placed them in a separate folder called "Images". You will also need to have Python 3 installed on your
