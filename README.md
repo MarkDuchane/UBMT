@@ -25,6 +25,6 @@ an elevated command prompt (As Admistrator) and run the following commands:
 3.) Pip install PySimpleGUI  (not needed)
 
 
-Alternatively, you can download the executable titled "UBMT-Windows" to test the programs functionality.
+Alternatively, you can download the executable titled "UBMT-Windows10.exe" to test the programs functionality.
 This is a revised version that will only run on Windows platform. It is designed a little different but
 still has the same concept. Just simply download the executable and double-click on it.
