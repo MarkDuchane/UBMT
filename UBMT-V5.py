@@ -640,19 +640,6 @@ class MacFrame(Toplevel):
             text = "You have successfully launched the Calculator Application."
             outputText.insert(END, text)
 
-
-
-
-        def submit():
-            contents = outputText.get(1.0,"end-1c")
-            f = filedialog.asksaveasfilename(   
-                defaultextension=".txt",                 
-                filetypes = (("text file", "*.txt"),    
-                     ("text", "*.txt")))
-            with open(f, 'w') as outputFile:
-                outputFile.write(contents)
-            outputText.delete(1.0,END)
-
         def openEset():
             webbrowser.open(url4, new=new)
 
